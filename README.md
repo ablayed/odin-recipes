@@ -1,6 +1,3 @@
-Below is an updated `README.md` that includes additional reflections on learning and memory:
-
----
 
 # My HTML Basics Project
 
